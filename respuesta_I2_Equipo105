@@ -5,3 +5,17 @@ A-Utilizando la funcion sync fork de github y aprentando en update branch
 B-SI, se puede haciendo un pull request pero solo si somos colaboradoes del fork. Si no lo somos saldra este error: Pull request creation failed. Validation failed: must be a collaborator
 C-SI, se puede haciendo un pull request pero solo si somos colaboradoes del fork. Si no lo somos saldra este error: Pull request creation failed. Validation failed: must be a collaborator
 D- No, no se pierden, solo se agregan los nuevos cambios.
+E- Listado de pasos a seguir:
+Interaccion:
+  1- Matias Tanoni crea el repositorio con readme y agrega fork.txt desde github
+  2- Mateo Irizarri clickea dentro del repo de Matias, arriba a la derecha en Fork, creando su copia del repo.
+  Luego modifica fork.txt con sus datos. Y hace un pull request al repo original para agregar los cambios hechos.
+  3- Tadeo Vázquez clickea dentro del repo de Matias, ya con los cambios de Mateo agregados, arriba a la derecha en "Fork", creando su copia del repo.
+  Luego modifica fork.txt con sus datos. Y hace un pull request al repo original para agregar los cambios hechos.
+  4- Matias agrega el archivo NuevoDato.txt al repo desde la web de github.
+  5- Tadeo Vázquez y Mateo Irizarri hacen un Sync Fork desde sus repos y logran actualizarlos
+  6- Mateo agrega las respuestas al archivo respuesta_I2_Equipo105.txt, hace commit, y luego le envia pull request a Matias para agregarlas al repo original.
+  7- Matias desde su repo en github actualiza ese archivo agregandole las respuestas c- y d-
+  8- Tadeo hace un Sync Fork para tener las respuestas agregadas por los demas y agrega la respuesta e-, para luego enviar un pull request a Matias (repo original)
+
+
