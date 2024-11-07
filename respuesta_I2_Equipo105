@@ -2,4 +2,5 @@ Matias Tanoni
 Mateo Irizarri
 Tadeo Vazquez
 A-Utilizando la funcion sync fork de github y aprentando en update branch  
-B-SI, se puede haciendo un pull request  
+B-SI, se puede haciendo un pull request pero solo si somos colaboradoes del fork. Si no lo somos saldra este error: Pull request creation failed. Validation failed: must be a collaborator
+
